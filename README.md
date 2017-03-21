@@ -1,20 +1,10 @@
-# Scale-Object-View-Swift
+# Scale Object View Swift
 
 Using scale Object View:
 --------------------------
 
-//
-//  ViewController.swift
-//  resize
-//
-//  Created by Nhat Nguyen on 3/21/17.
-//  Copyright © 2017 Nhat Nguyen. All rights reserved.
-//
 import UIKit
-
 class ViewController: UIViewController {
-
-
     @IBOutlet weak var pearl: UIView!
     @IBOutlet weak var redview: UIView!
     @IBOutlet weak var uivis: UIView!
