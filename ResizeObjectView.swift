@@ -1,5 +1,5 @@
 //
-//  ResizeControlObject.swift
+//  ResizeObjectView.swift
 //  resize
 //
 //  Created by Nhat Nguyen on 3/21/17.
@@ -16,7 +16,7 @@ private struct vars {
 }
 
 
-class ResizeControlObject {
+class ResizeObjectView {
     
     class func resizeButton(btnView : UIButton)
     {
