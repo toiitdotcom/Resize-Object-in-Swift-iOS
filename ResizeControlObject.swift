@@ -1,5 +1,5 @@
 //
-//  Utility.swift
+//  ResizeControlObject.swift
 //  resize
 //
 //  Created by Nhat Nguyen on 3/21/17.
@@ -16,7 +16,7 @@ private struct vars {
 }
 
 
-class Plugin {
+class ResizeControlObject {
     
     class func resizeButton(btnView : UIButton)
     {
